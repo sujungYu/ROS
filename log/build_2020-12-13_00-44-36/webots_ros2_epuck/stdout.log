@@ -1,0 +1,25 @@
+running egg_info
+writing ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\PKG-INFO
+writing dependency_links to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\dependency_links.txt
+writing entry points to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\entry_points.txt
+writing requirements to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\requires.txt
+writing top-level names to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\top_level.txt
+reading manifest file '..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\SOURCES.txt'
+writing manifest file '..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying worlds\epuck_world.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\worlds
+running install_egg_info
+removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck-1.0.3-py3.8.egg-info' (and everything under it)
+Copying ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck-1.0.3-py3.8.egg-info
+running install_scripts
+Installing drive_calibrator-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+Installing drive_calibrator.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+Installing driver-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+Installing driver.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+Installing simple_mapper-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+Installing simple_mapper.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\install.log'

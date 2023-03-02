@@ -1,0 +1,52 @@
+[9.375s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_universal_robot': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_universal_robot build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_universal_robot\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_universal_robot\install.log --single-version-externally-managed
+[10.531s] running egg_info
+[10.547s] creating ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info
+[10.547s] writing ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\PKG-INFO
+[10.547s] writing dependency_links to ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\dependency_links.txt
+[10.547s] writing entry points to ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\entry_points.txt
+[10.547s] writing requirements to ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\requires.txt
+[10.547s] writing top-level names to ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\top_level.txt
+[10.547s] writing manifest file '..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\SOURCES.txt'
+[10.578s] reading manifest file '..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\SOURCES.txt'
+[10.594s] writing manifest file '..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\SOURCES.txt'
+[10.594s] running build
+[10.594s] running install
+[10.594s] running install_data
+[10.594s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\ament_index
+[10.594s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\ament_index\resource_index
+[10.594s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\ament_index\resource_index\packages
+[10.594s] copying resource\webots_ros2_universal_robot -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\ament_index\resource_index\packages
+[10.610s] copying launch\universal_robot.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+[10.610s] copying launch\universal_robot_multiple.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+[10.625s] copying launch\universal_robot_rviz.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+[10.641s] copying launch\universal_robot_rviz_dynamic.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+[10.641s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.641s] copying worlds\universal_robot_multiple.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.672s] copying worlds\universal_robot_rviz.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.688s] copying worlds\universal_robot.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.688s] copying worlds\universal_robot_lidar.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.703s] copying worlds\.universal_robot_multiple.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.703s] copying worlds\.universal_robot_rviz.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.719s] copying worlds\.universal_robot.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.719s] copying worlds\.universal_robot_lidar.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+[10.735s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.735s] copying worlds\textures\ur5e_normal_0.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.750s] copying worlds\textures\ur5e_normal_1.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.766s] copying worlds\textures\ur5e_normal_2.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.906s] copying worlds\textures\ur5e_normal_3.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.906s] copying worlds\textures\ur5e_normal_4.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.906s] copying worlds\textures\ur5e_normal_5.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.906s] copying worlds\textures\ur5e_occlusion_0.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.906s] copying worlds\textures\ur5e_occlusion_1.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[10.906s] copying worlds\textures\ur5e_occlusion_2.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[11.016s] copying worlds\textures\ur5e_occlusion_3.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[11.016s] copying worlds\textures\ur5e_occlusion_4.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[11.016s] copying worlds\textures\ur5e_occlusion_5.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+[11.016s] copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+[11.031s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\resource
+[11.031s] copying resource\view_robot_dynamic.rviz -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\resource
+[11.031s] running install_egg_info
+[11.031s] Copying ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\Lib\site-packages\webots_ros2_universal_robot-1.0.3-py3.8.egg-info
+[11.094s] running install_scripts
+[11.110s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_universal_robot\install.log'
+[11.188s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_universal_robot' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_universal_robot build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_universal_robot\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_universal_robot\install.log --single-version-externally-managed

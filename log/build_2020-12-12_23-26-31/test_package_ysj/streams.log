@@ -1,0 +1,34 @@
+[3.266s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\src\test_package_ysj': PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\test_package_ysj build --build-base c:\Users\82103\Documents\ros2_ws\build\test_package_ysj\build install --prefix c:\Users\82103\Documents\ros2_ws\install\test_package_ysj --record c:\Users\82103\Documents\ros2_ws\build\test_package_ysj\install.log --single-version-externally-managed
+[4.172s] running egg_info
+[4.172s] writing ..\..\build\test_package_ysj\test_package_ysj.egg-info\PKG-INFO
+[4.172s] writing dependency_links to ..\..\build\test_package_ysj\test_package_ysj.egg-info\dependency_links.txt
+[4.172s] writing entry points to ..\..\build\test_package_ysj\test_package_ysj.egg-info\entry_points.txt
+[4.187s] writing requirements to ..\..\build\test_package_ysj\test_package_ysj.egg-info\requires.txt
+[4.187s] writing top-level names to ..\..\build\test_package_ysj\test_package_ysj.egg-info\top_level.txt
+[4.234s] reading manifest file '..\..\build\test_package_ysj\test_package_ysj.egg-info\SOURCES.txt'
+[4.234s] writing manifest file '..\..\build\test_package_ysj\test_package_ysj.egg-info\SOURCES.txt'
+[4.234s] running build
+[4.234s] running build_py
+[4.250s] running install
+[4.250s] running install_lib
+[4.266s] running install_data
+[4.266s] running install_egg_info
+[4.281s] removing 'c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\Lib\site-packages\test_package_ysj-0.0.0-py3.8.egg-info' (and everything under it)
+[4.281s] Copying ..\..\build\test_package_ysj\test_package_ysj.egg-info to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\Lib\site-packages\test_package_ysj-0.0.0-py3.8.egg-info
+[4.312s] running install_scripts
+[4.375s] Installing fibonacci_action_server-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.375s] Installing fibonacci_action_server.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.375s] Installing service_client_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.375s] Installing service_client_node.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.375s] Installing service_server_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.375s] Installing service_server_node.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.375s] Installing simple_publisher_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.375s] Installing simple_publisher_node.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.391s] Installing simple_subscriber_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.391s] Installing simple_subscriber_node.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.391s] Installing temperature_alert-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.391s] Installing temperature_alert.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.391s] Installing temperature_sensor-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.391s] Installing temperature_sensor.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+[4.391s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\test_package_ysj\install.log'
+[4.516s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\src\test_package_ysj' returned '0': PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\test_package_ysj build --build-base c:\Users\82103\Documents\ros2_ws\build\test_package_ysj\build install --prefix c:\Users\82103\Documents\ros2_ws\install\test_package_ysj --record c:\Users\82103\Documents\ros2_ws\build\test_package_ysj\install.log --single-version-externally-managed

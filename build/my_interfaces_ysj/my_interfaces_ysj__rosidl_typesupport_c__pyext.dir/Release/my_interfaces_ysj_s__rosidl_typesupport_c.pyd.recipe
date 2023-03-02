@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\x64\Release\ZERO_CHECK;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\x64\Release\my_interfaces_ysj__cpp;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\Release\my_interfaces_ysj__rosidl_generator_c.dll;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\Release\my_interfaces_ysj__rosidl_typesupport_c.dll;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\Release\my_interfaces_ysj__rosidl_typesupport_cpp.dll;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\Release\my_interfaces_ysj__rosidl_typesupport_fastrtps_cpp.dll;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\Release\my_interfaces_ysj__rosidl_typesupport_fastrtps_c.dll;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\Release\my_interfaces_ysj__rosidl_typesupport_introspection_c.dll;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\Release\my_interfaces_ysj__rosidl_typesupport_introspection_cpp.dll;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\x64\Release\my_interfaces_ysj;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_generator_py\my_interfaces_ysj\my_interfaces_ysj__python.dll;C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_generator_py\my_interfaces_ysj\my_interfaces_ysj_s__rosidl_typesupport_c.pyd</ProjectOutputs>
+  <ContentFiles></ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>

@@ -1,0 +1,20 @@
+[3.500s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_ur_e_description': PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_ur_e_description build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_ur_e_description\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_ur_e_description\install.log --single-version-externally-managed
+[4.547s] running egg_info
+[4.547s] writing ..\..\build\webots_ros2_ur_e_description\webots_ros2_ur_e_description.egg-info\PKG-INFO
+[4.547s] writing dependency_links to ..\..\build\webots_ros2_ur_e_description\webots_ros2_ur_e_description.egg-info\dependency_links.txt
+[4.547s] writing entry points to ..\..\build\webots_ros2_ur_e_description\webots_ros2_ur_e_description.egg-info\entry_points.txt
+[4.547s] writing requirements to ..\..\build\webots_ros2_ur_e_description\webots_ros2_ur_e_description.egg-info\requires.txt
+[4.547s] writing top-level names to ..\..\build\webots_ros2_ur_e_description\webots_ros2_ur_e_description.egg-info\top_level.txt
+[4.610s] reading manifest file '..\..\build\webots_ros2_ur_e_description\webots_ros2_ur_e_description.egg-info\SOURCES.txt'
+[4.641s] writing manifest file '..\..\build\webots_ros2_ur_e_description\webots_ros2_ur_e_description.egg-info\SOURCES.txt'
+[4.641s] running build
+[4.641s] running build_py
+[4.641s] running install
+[4.641s] running install_lib
+[4.657s] running install_data
+[4.704s] running install_egg_info
+[4.719s] removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description\Lib\site-packages\webots_ros2_ur_e_description-1.0.3-py3.8.egg-info' (and everything under it)
+[4.719s] Copying ..\..\build\webots_ros2_ur_e_description\webots_ros2_ur_e_description.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description\Lib\site-packages\webots_ros2_ur_e_description-1.0.3-py3.8.egg-info
+[4.750s] running install_scripts
+[4.907s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_ur_e_description\install.log'
+[4.954s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_ur_e_description' returned '0': PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_ur_e_description build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_ur_e_description\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_ur_e_description\install.log --single-version-externally-managed

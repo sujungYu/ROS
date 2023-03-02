@@ -1,0 +1,7 @@
+[console_scripts]
+enable_robot = webots_ros2_tutorials.slave:main
+line_follower = webots_ros2_tutorials.master:main
+
+[launch.frontend.launch_extension]
+launch_ros = launch_ros
+

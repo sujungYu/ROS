@@ -1,0 +1,10 @@
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\BUILD\WEBOTS_ROS2_MSGS\CMAKEFILES\550FC316D5AA7854D04381260EFFC5B5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/82103/Documents/ros2_ws/webots_ros2/webots_ros2_msgs -BC:/Users/82103/Documents/ros2_ws/build/webots_ros2_msgs --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/82103/Documents/ros2_ws/build/webots_ros2_msgs/webots_ros2_msgs.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

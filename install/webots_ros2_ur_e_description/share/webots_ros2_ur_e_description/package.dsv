@@ -1,0 +1,6 @@
+source;share\webots_ros2_ur_e_description\hook\pythonpath.ps1
+source;share\webots_ros2_ur_e_description\hook\pythonpath.bat
+source;share\webots_ros2_ur_e_description\hook\pythonpath.dsv
+source;share\webots_ros2_ur_e_description\hook\ament_prefix_path.ps1
+source;share\webots_ros2_ur_e_description\hook\ament_prefix_path.bat
+source;share\webots_ros2_ur_e_description\hook\ament_prefix_path.dsv

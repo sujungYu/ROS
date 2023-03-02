@@ -1,0 +1,6 @@
+Invoking command in 'c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj': C:\Program Files\CMake\bin\cmake.EXE c:\Users\82103\Documents\ros2_ws\src\my_interfaces_ysj -DCMAKE_INSTALL_PREFIX=c:\Users\82103\Documents\ros2_ws\install\my_interfaces_ysj
+Invoked command in 'c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj' returned '0': C:\Program Files\CMake\bin\cmake.EXE c:\Users\82103\Documents\ros2_ws\src\my_interfaces_ysj -DCMAKE_INSTALL_PREFIX=c:\Users\82103\Documents\ros2_ws\install\my_interfaces_ysj
+Invoking command in 'c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj': CL=/MP C:\Program Files\CMake\bin\cmake.EXE --build c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj --config Release
+Invoked command in 'c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj' returned '0': CL=/MP C:\Program Files\CMake\bin\cmake.EXE --build c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj --config Release
+Invoking command in 'c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj': C:\Program Files\CMake\bin\cmake.EXE --install c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj --config Release
+Invoked command in 'c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj' returned '0': C:\Program Files\CMake\bin\cmake.EXE --install c:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj --config Release

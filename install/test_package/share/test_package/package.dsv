@@ -1,0 +1,3 @@
+source;share\test_package\hook\pythonpath.ps1
+source;share\test_package\hook\pythonpath.bat
+source;share\test_package\hook\pythonpath.dsv

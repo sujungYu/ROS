@@ -1,0 +1,24 @@
+[9.375s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_tutorials': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_tutorials build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\install.log --single-version-externally-managed
+[11.172s] running egg_info
+[11.172s] writing ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\PKG-INFO
+[11.172s] writing dependency_links to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\dependency_links.txt
+[11.172s] writing entry points to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\entry_points.txt
+[11.172s] writing requirements to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\requires.txt
+[11.172s] writing top-level names to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\top_level.txt
+[11.172s] reading manifest file '..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\SOURCES.txt'
+[11.188s] writing manifest file '..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\SOURCES.txt'
+[11.188s] running build
+[11.188s] running build_py
+[11.188s] running install
+[11.188s] running install_lib
+[11.188s] running install_data
+[11.313s] running install_egg_info
+[11.313s] removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials-1.0.3-py3.8.egg-info' (and everything under it)
+[11.313s] Copying ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials-1.0.3-py3.8.egg-info
+[11.313s] running install_scripts
+[11.313s] Installing enable_robot-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+[11.313s] Installing enable_robot.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+[11.313s] Installing line_follower-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+[11.313s] Installing line_follower.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+[11.328s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\install.log'
+[11.375s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_tutorials' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_tutorials build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\install.log --single-version-externally-managed

@@ -1,0 +1,44 @@
+{
+  "package_name": "my_interfaces_ysj",
+  "output_dir": "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_generator_py/my_interfaces_ysj",
+  "template_dir": "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj:srv/AddThreeInts.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj:msg/Temp.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj:action/Fibonacci.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:C:/dev/ros2_foxy/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:C:/dev/ros2_foxy/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:C:/dev/ros2_foxy/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:C:/dev/ros2_foxy/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:C:/dev/ros2_foxy/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:C:/dev/ros2_foxy/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:C:/dev/ros2_foxy/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "C:/dev/ros2_foxy/Lib/site-packages/rosidl_generator_py/__init__.py",
+    "C:/dev/ros2_foxy/Lib/site-packages/rosidl_generator_py/generate_py_impl.py",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj/srv/AddThreeInts.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj/msg/Temp.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj/action/Fibonacci.idl",
+    "C:/dev/ros2_foxy/share/action_msgs/msg/GoalInfo.idl",
+    "C:/dev/ros2_foxy/share/action_msgs/msg/GoalStatus.idl",
+    "C:/dev/ros2_foxy/share/action_msgs/msg/GoalStatusArray.idl",
+    "C:/dev/ros2_foxy/share/action_msgs/srv/CancelGoal.idl",
+    "C:/dev/ros2_foxy/share/builtin_interfaces/msg/Duration.idl",
+    "C:/dev/ros2_foxy/share/builtin_interfaces/msg/Time.idl",
+    "C:/dev/ros2_foxy/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

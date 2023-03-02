@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\x64\Release\ZERO_CHECK;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\x64\Release\webots_ros2_msgs__cpp;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\Release\webots_ros2_msgs__rosidl_generator_c.dll;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\Release\webots_ros2_msgs__rosidl_typesupport_c.dll;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\Release\webots_ros2_msgs__rosidl_typesupport_cpp.dll;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\Release\webots_ros2_msgs__rosidl_typesupport_fastrtps_cpp.dll;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\Release\webots_ros2_msgs__rosidl_typesupport_fastrtps_c.dll;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\Release\webots_ros2_msgs__rosidl_typesupport_introspection_c.dll;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\Release\webots_ros2_msgs__rosidl_typesupport_introspection_cpp.dll;C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\x64\Release\webots_ros2_msgs</ProjectOutputs>
+  <ContentFiles></ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>

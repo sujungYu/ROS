@@ -1,0 +1,50 @@
+running egg_info
+creating ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info
+writing ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\PKG-INFO
+writing dependency_links to ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\dependency_links.txt
+writing entry points to ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\entry_points.txt
+writing requirements to ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\requires.txt
+writing top-level names to ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\top_level.txt
+writing manifest file '..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\SOURCES.txt'
+reading manifest file '..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\SOURCES.txt'
+writing manifest file '..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info\SOURCES.txt'
+running build
+running install
+running install_data
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\ament_index
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\ament_index\resource_index
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\ament_index\resource_index\packages
+copying resource\webots_ros2_universal_robot -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\ament_index\resource_index\packages
+copying launch\universal_robot.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+copying launch\universal_robot_multiple.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+copying launch\universal_robot_rviz.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+copying launch\universal_robot_rviz_dynamic.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+copying worlds\universal_robot_multiple.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+copying worlds\universal_robot_rviz.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+copying worlds\universal_robot.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+copying worlds\universal_robot_lidar.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+copying worlds\.universal_robot_multiple.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+copying worlds\.universal_robot_rviz.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+copying worlds\.universal_robot.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+copying worlds\.universal_robot_lidar.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_normal_0.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_normal_1.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_normal_2.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_normal_3.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_normal_4.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_normal_5.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_occlusion_0.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_occlusion_1.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_occlusion_2.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_occlusion_3.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_occlusion_4.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying worlds\textures\ur5e_occlusion_5.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\worlds\textures
+copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\resource
+copying resource\view_robot_dynamic.rviz -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\share\webots_ros2_universal_robot\resource
+running install_egg_info
+Copying ..\..\build\webots_ros2_universal_robot\webots_ros2_universal_robot.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\Lib\site-packages\webots_ros2_universal_robot-1.0.3-py3.8.egg-info
+running install_scripts
+writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_universal_robot\install.log'

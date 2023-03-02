@@ -1,0 +1,32 @@
+running egg_info
+writing ..\..\build\test_package_ysj\test_package_ysj.egg-info\PKG-INFO
+writing dependency_links to ..\..\build\test_package_ysj\test_package_ysj.egg-info\dependency_links.txt
+writing entry points to ..\..\build\test_package_ysj\test_package_ysj.egg-info\entry_points.txt
+writing requirements to ..\..\build\test_package_ysj\test_package_ysj.egg-info\requires.txt
+writing top-level names to ..\..\build\test_package_ysj\test_package_ysj.egg-info\top_level.txt
+reading manifest file '..\..\build\test_package_ysj\test_package_ysj.egg-info\SOURCES.txt'
+writing manifest file '..\..\build\test_package_ysj\test_package_ysj.egg-info\SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing 'c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\Lib\site-packages\test_package_ysj-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ..\..\build\test_package_ysj\test_package_ysj.egg-info to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\Lib\site-packages\test_package_ysj-0.0.0-py3.8.egg-info
+running install_scripts
+Installing fibonacci_action_server-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing fibonacci_action_server.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing service_client_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing service_client_node.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing service_server_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing service_server_node.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing simple_publisher_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing simple_publisher_node.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing simple_subscriber_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing simple_subscriber_node.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing temperature_alert-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing temperature_alert.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing temperature_sensor-script.py script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+Installing temperature_sensor.exe script to c:\Users\82103\Documents\ros2_ws\install\test_package_ysj\lib\test_package_ysj
+writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\test_package_ysj\install.log'

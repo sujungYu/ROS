@@ -1,0 +1,20 @@
+[2.093s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\src\test_launch': PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\test_launch\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\test_launch build --build-base c:\Users\82103\Documents\ros2_ws\build\test_launch\build install --prefix c:\Users\82103\Documents\ros2_ws\install\test_launch --record c:\Users\82103\Documents\ros2_ws\build\test_launch\install.log --single-version-externally-managed
+[3.093s] running egg_info
+[3.093s] writing ..\..\build\test_launch\test_launch.egg-info\PKG-INFO
+[3.093s] writing dependency_links to ..\..\build\test_launch\test_launch.egg-info\dependency_links.txt
+[3.093s] writing entry points to ..\..\build\test_launch\test_launch.egg-info\entry_points.txt
+[3.093s] writing requirements to ..\..\build\test_launch\test_launch.egg-info\requires.txt
+[3.093s] writing top-level names to ..\..\build\test_launch\test_launch.egg-info\top_level.txt
+[3.093s] reading manifest file '..\..\build\test_launch\test_launch.egg-info\SOURCES.txt'
+[3.093s] writing manifest file '..\..\build\test_launch\test_launch.egg-info\SOURCES.txt'
+[3.093s] running build
+[3.093s] running build_py
+[3.093s] running install
+[3.093s] running install_lib
+[3.093s] running install_data
+[3.093s] running install_egg_info
+[3.093s] removing 'c:\Users\82103\Documents\ros2_ws\install\test_launch\Lib\site-packages\test_launch-0.0.0-py3.8.egg-info' (and everything under it)
+[3.093s] Copying ..\..\build\test_launch\test_launch.egg-info to c:\Users\82103\Documents\ros2_ws\install\test_launch\Lib\site-packages\test_launch-0.0.0-py3.8.egg-info
+[3.125s] running install_scripts
+[3.172s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\test_launch\install.log'
+[3.218s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\src\test_launch' returned '0': PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\test_launch\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\test_launch build --build-base c:\Users\82103\Documents\ros2_ws\build\test_launch\build install --prefix c:\Users\82103\Documents\ros2_ws\install\test_launch --record c:\Users\82103\Documents\ros2_ws\build\test_launch\install.log --single-version-externally-managed

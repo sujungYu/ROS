@@ -1,0 +1,20 @@
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\BUILD\MY_INTERFACES_YSJ\CMAKEFILES\110BD0380EC716000EFE5C71053BE408\ADD_THREE_INTS.H.RULE
+setlocal
+C:\Python38\python.exe C:/dev/ros2_foxy/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c --generator-arguments-file C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_generator_c__arguments.json
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\SRC\MY_INTERFACES_YSJ\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/82103/Documents/ros2_ws/src/my_interfaces_ysj -BC:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj --check-stamp-file C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

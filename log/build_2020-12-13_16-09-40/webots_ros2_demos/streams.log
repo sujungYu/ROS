@@ -1,0 +1,24 @@
+[3.281s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_demos': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_abb;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_abb\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_demos build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\install.log --single-version-externally-managed
+[4.516s] running egg_info
+[4.531s] writing ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\PKG-INFO
+[4.531s] writing dependency_links to ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\dependency_links.txt
+[4.531s] writing entry points to ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\entry_points.txt
+[4.531s] writing requirements to ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\requires.txt
+[4.531s] writing top-level names to ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\top_level.txt
+[4.625s] reading manifest file '..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\SOURCES.txt'
+[4.656s] writing manifest file '..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\SOURCES.txt'
+[4.672s] running build
+[4.672s] running build_py
+[4.672s] running install
+[4.672s] running install_lib
+[4.703s] running install_data
+[4.719s] running install_egg_info
+[4.750s] removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos-1.0.3-py3.8.egg-info' (and everything under it)
+[4.766s] Copying ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos-1.0.3-py3.8.egg-info
+[4.875s] running install_scripts
+[5.016s] Installing armed_robots_abb-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\lib\webots_ros2_demos
+[5.031s] Installing armed_robots_abb.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\lib\webots_ros2_demos
+[5.031s] Installing armed_robots_ur-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\lib\webots_ros2_demos
+[5.031s] Installing armed_robots_ur.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\lib\webots_ros2_demos
+[5.047s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\install.log'
+[5.125s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_demos' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_abb;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_universal_robot\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_abb\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_ur_e_description\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_demos build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\install.log --single-version-externally-managed

@@ -1,0 +1,39 @@
+{
+  "package_name": "my_interfaces_ysj",
+  "output_dir": "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_typesupport_fastrtps_cpp/my_interfaces_ysj",
+  "template_dir": "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj:srv/AddThreeInts.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj:msg/Temp.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj:action/Fibonacci.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:C:/dev/ros2_foxy/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:C:/dev/ros2_foxy/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:C:/dev/ros2_foxy/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:C:/dev/ros2_foxy/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:C:/dev/ros2_foxy/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:C:/dev/ros2_foxy/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:C:/dev/ros2_foxy/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "C:/dev/ros2_foxy/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "C:/dev/ros2_foxy/Lib/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj/srv/AddThreeInts.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj/msg/Temp.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_adapter/my_interfaces_ysj/action/Fibonacci.idl",
+    "C:/dev/ros2_foxy/share/action_msgs/msg/GoalInfo.idl",
+    "C:/dev/ros2_foxy/share/action_msgs/msg/GoalStatus.idl",
+    "C:/dev/ros2_foxy/share/action_msgs/msg/GoalStatusArray.idl",
+    "C:/dev/ros2_foxy/share/action_msgs/srv/CancelGoal.idl",
+    "C:/dev/ros2_foxy/share/builtin_interfaces/msg/Duration.idl",
+    "C:/dev/ros2_foxy/share/builtin_interfaces/msg/Time.idl",
+    "C:/dev/ros2_foxy/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

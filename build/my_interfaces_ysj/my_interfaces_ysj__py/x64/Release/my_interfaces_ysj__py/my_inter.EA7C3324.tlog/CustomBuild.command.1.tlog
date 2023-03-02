@@ -1,0 +1,28 @@
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\BUILD\MY_INTERFACES_YSJ\CMAKEFILES\505ECBAC2CA5A735B45B081DD8CAD69C\_MY_INTERFACES_YSJ_S.EP.ROSIDL_TYPESUPPORT_CONNEXT_C.C.RULE
+setlocal
+C:\Python38\python.exe C:/dev/ros2_foxy/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py --generator-arguments-file C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_generator_py__arguments.json --typesupport-impls rosidl_typesupport_connext_c";"rosidl_typesupport_fastrtps_c";"rosidl_typesupport_introspection_c";"rosidl_typesupport_c
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\BUILD\MY_INTERFACES_YSJ\CMAKEFILES\BF410933D0CA9EF07D3294E238CDE239\MY_INTERFACES_YSJ__PY.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\BUILD\MY_INTERFACES_YSJ\MY_INTERFACES_YSJ__PY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/82103/Documents/ros2_ws/src/my_interfaces_ysj -BC:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj --check-stamp-file C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/my_interfaces_ysj__py/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

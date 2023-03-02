@@ -1,0 +1,65 @@
+[9.157s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_examples': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_examples build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\install.log --single-version-externally-managed
+[10.282s] running egg_info
+[10.282s] creating ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info
+[10.297s] writing ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\PKG-INFO
+[10.297s] writing dependency_links to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\dependency_links.txt
+[10.297s] writing entry points to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\entry_points.txt
+[10.297s] writing requirements to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\requires.txt
+[10.297s] writing top-level names to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\top_level.txt
+[10.297s] writing manifest file '..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\SOURCES.txt'
+[10.407s] reading manifest file '..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\SOURCES.txt'
+[10.407s] writing manifest file '..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\SOURCES.txt'
+[10.422s] running build
+[10.422s] running build_py
+[10.422s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build
+[10.422s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib
+[10.422s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples
+[10.422s] copying webots_ros2_examples\example_controller.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples
+[10.422s] copying webots_ros2_examples\khepera_driver.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples
+[10.438s] copying webots_ros2_examples\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples
+[10.438s] running install
+[10.453s] running install_lib
+[10.453s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples
+[10.453s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples\example_controller.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples
+[10.453s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples\khepera_driver.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples
+[10.469s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples
+[10.469s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples\example_controller.py to example_controller.cpython-38.pyc
+[10.485s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples\khepera_driver.py to khepera_driver.cpython-38.pyc
+[10.500s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples\__init__.py to __init__.cpython-38.pyc
+[10.500s] running install_data
+[10.500s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\ament_index
+[10.500s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\ament_index\resource_index
+[10.500s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\ament_index\resource_index\packages
+[10.500s] copying resource\webots_ros2_examples -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\ament_index\resource_index\packages
+[10.500s] copying launch\example.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples
+[10.516s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\resource
+[10.516s] copying resource\khepera4.yaml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\resource
+[10.516s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos
+[10.516s] copying protos\Khepera4_enu.proto -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos
+[10.532s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.547s] copying protos\textures\khepera4_bottom_base_color.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.563s] copying protos\textures\khepera4_bottom_metalness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.594s] copying protos\textures\khepera4_bottom_normal.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.719s] copying protos\textures\khepera4_bottom_occlusion.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.719s] copying protos\textures\khepera4_bottom_roughness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.719s] copying protos\textures\khepera4_left_sticker.png -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.719s] copying protos\textures\khepera4_right_sticker.png -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.719s] copying protos\textures\khepera4_top_base_color.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.813s] copying protos\textures\khepera4_top_normal.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.813s] copying protos\textures\khepera4_top_occlusion.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.813s] copying protos\textures\khepera4_top_roughness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+[10.813s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+[10.813s] copying worlds\ros_example.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+[10.813s] copying worlds\.ros_example.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+[10.813s] copying worlds\khepera4_example.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+[10.813s] copying worlds\.khepera4_example.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+[10.813s] copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples
+[10.813s] running install_egg_info
+[10.891s] Copying ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples-1.0.3-py3.8.egg-info
+[10.891s] running install_scripts
+[10.907s] Installing example_controller-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+[10.922s] Installing example_controller.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+[10.922s] Installing khepera_driver-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+[10.938s] Installing khepera_driver.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+[10.938s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\install.log'
+[11.203s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_examples' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_examples build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\install.log --single-version-externally-managed

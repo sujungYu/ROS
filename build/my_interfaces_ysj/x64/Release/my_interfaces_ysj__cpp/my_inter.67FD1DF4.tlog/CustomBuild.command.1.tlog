@@ -1,0 +1,28 @@
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\BUILD\MY_INTERFACES_YSJ\CMAKEFILES\893D3461F170E1DD67EF331D557B9D40\ADD_THREE_INTS.HPP.RULE
+setlocal
+C:\Python38\python.exe C:/dev/ros2_foxy/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp --generator-arguments-file C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_generator_cpp__arguments.json
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\BUILD\MY_INTERFACES_YSJ\CMAKEFILES\AB4D4BE3850F4C33BBBA1DE53CC83A45\MY_INTERFACES_YSJ__CPP.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\SRC\MY_INTERFACES_YSJ\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/82103/Documents/ros2_ws/src/my_interfaces_ysj -BC:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj --check-stamp-file C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

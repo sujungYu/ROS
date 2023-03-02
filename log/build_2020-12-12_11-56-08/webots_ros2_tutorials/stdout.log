@@ -1,0 +1,50 @@
+running egg_info
+creating ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info
+writing ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\PKG-INFO
+writing dependency_links to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\dependency_links.txt
+writing entry points to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\entry_points.txt
+writing requirements to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\requires.txt
+writing top-level names to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\top_level.txt
+writing manifest file '..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\SOURCES.txt'
+reading manifest file '..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\SOURCES.txt'
+writing manifest file '..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\SOURCES.txt'
+running build
+running build_py
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials
+copying webots_ros2_tutorials\master.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials
+copying webots_ros2_tutorials\slave.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials
+copying webots_ros2_tutorials\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials
+running install
+running install_lib
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials\master.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials\slave.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials\master.py to master.cpython-38.pyc
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials\slave.py to slave.cpython-38.pyc
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials\__init__.py to __init__.cpython-38.pyc
+running install_data
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\ament_index
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\ament_index\resource_index
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\ament_index\resource_index\packages
+copying resource\webots_ros2_tutorials -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\ament_index\resource_index\packages
+copying launch\line_following_launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\worlds
+copying worlds\custom_line_follower.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\worlds
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\protos
+copying protos\RobotSense.proto -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\protos
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\protos\icons
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\worlds\textures
+copying worlds\textures\loop.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\worlds\textures
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\protos\textures
+copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials
+running install_egg_info
+Copying ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials-1.0.3-py3.8.egg-info
+running install_scripts
+Installing enable_robot-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+Installing enable_robot.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+Installing line_follower-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+Installing line_follower.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\install.log'

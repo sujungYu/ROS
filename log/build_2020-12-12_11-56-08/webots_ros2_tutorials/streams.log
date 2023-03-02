@@ -1,0 +1,52 @@
+[9.343s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_tutorials': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_tutorials build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\install.log --single-version-externally-managed
+[10.796s] running egg_info
+[10.796s] creating ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info
+[10.796s] writing ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\PKG-INFO
+[10.796s] writing dependency_links to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\dependency_links.txt
+[10.796s] writing entry points to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\entry_points.txt
+[10.796s] writing requirements to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\requires.txt
+[10.796s] writing top-level names to ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\top_level.txt
+[10.796s] writing manifest file '..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\SOURCES.txt'
+[10.859s] reading manifest file '..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\SOURCES.txt'
+[10.859s] writing manifest file '..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info\SOURCES.txt'
+[10.859s] running build
+[10.859s] running build_py
+[10.859s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build
+[10.859s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib
+[10.859s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials
+[10.859s] copying webots_ros2_tutorials\master.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials
+[10.859s] copying webots_ros2_tutorials\slave.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials
+[10.859s] copying webots_ros2_tutorials\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials
+[10.859s] running install
+[10.859s] running install_lib
+[10.859s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials
+[10.859s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials\master.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials
+[10.875s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials\slave.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials
+[10.875s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build\lib\webots_ros2_tutorials\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials
+[10.875s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials\master.py to master.cpython-38.pyc
+[10.875s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials\slave.py to slave.cpython-38.pyc
+[10.875s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials\__init__.py to __init__.cpython-38.pyc
+[10.875s] running install_data
+[10.875s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\ament_index
+[10.875s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\ament_index\resource_index
+[10.875s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\ament_index\resource_index\packages
+[10.875s] copying resource\webots_ros2_tutorials -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\ament_index\resource_index\packages
+[10.875s] copying launch\line_following_launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials
+[10.875s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\worlds
+[10.875s] copying worlds\custom_line_follower.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\worlds
+[10.875s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\protos
+[10.875s] copying protos\RobotSense.proto -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\protos
+[10.875s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\protos\icons
+[10.875s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\worlds\textures
+[10.875s] copying worlds\textures\loop.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\worlds\textures
+[10.875s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials\protos\textures
+[10.875s] copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\share\webots_ros2_tutorials
+[10.875s] running install_egg_info
+[10.875s] Copying ..\..\build\webots_ros2_tutorials\webots_ros2_tutorials.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages\webots_ros2_tutorials-1.0.3-py3.8.egg-info
+[10.875s] running install_scripts
+[10.921s] Installing enable_robot-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+[10.937s] Installing enable_robot.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+[10.937s] Installing line_follower-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+[10.937s] Installing line_follower.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\lib\webots_ros2_tutorials
+[10.953s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\install.log'
+[11.046s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_tutorials' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_tutorials build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tutorials --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tutorials\install.log --single-version-externally-managed

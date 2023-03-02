@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\CMakeFiles\550fc316d5aa7854d04381260effc5b5\webots_ros2_msgs.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_msgs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_msgs\srv\SetDifferentialWheelSpeed.srv" />
+    <None Include="C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\rosidl_cmake\srv\SetDifferentialWheelSpeed_Request.msg" />
+    <None Include="C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\rosidl_cmake\srv\SetDifferentialWheelSpeed_Response.msg" />
+    <None Include="C:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_msgs\srv\SetInt.srv" />
+    <None Include="C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\rosidl_cmake\srv\SetInt_Request.msg" />
+    <None Include="C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\rosidl_cmake\srv\SetInt_Response.msg" />
+    <None Include="C:\Users\82103\Documents\ros2_ws\build\webots_ros2_msgs\CMakeFiles\webots_ros2_msgs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{40FF97A1-EB1B-358F-8681-1D702E5BCD12}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

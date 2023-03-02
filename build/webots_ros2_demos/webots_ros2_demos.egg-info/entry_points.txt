@@ -1,0 +1,7 @@
+[console_scripts]
+armed_robots_abb = webots_ros2_demos.armed_robots_abb:main
+armed_robots_ur = webots_ros2_demos.armed_robots_ur:main
+
+[launch.frontend.launch_extension]
+launch_ros = launch_ros
+

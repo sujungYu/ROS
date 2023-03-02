@@ -1,0 +1,27 @@
+{
+  "package_name": "webots_ros2_msgs",
+  "output_dir": "C:/Users/82103/Documents/ros2_ws/build/webots_ros2_msgs/rosidl_typesupport_fastrtps_cpp/webots_ros2_msgs",
+  "template_dir": "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "C:/Users/82103/Documents/ros2_ws/build/webots_ros2_msgs/rosidl_adapter/webots_ros2_msgs:srv/SetDifferentialWheelSpeed.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/webots_ros2_msgs/rosidl_adapter/webots_ros2_msgs:srv/SetInt.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:C:/dev/ros2_foxy/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:C:/dev/ros2_foxy/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "C:/dev/ros2_foxy/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "C:/dev/ros2_foxy/Lib/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "C:/dev/ros2_foxy/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "C:/Users/82103/Documents/ros2_ws/build/webots_ros2_msgs/rosidl_adapter/webots_ros2_msgs/srv/SetDifferentialWheelSpeed.idl",
+    "C:/Users/82103/Documents/ros2_ws/build/webots_ros2_msgs/rosidl_adapter/webots_ros2_msgs/srv/SetInt.idl",
+    "C:/dev/ros2_foxy/share/builtin_interfaces/msg/Duration.idl",
+    "C:/dev/ros2_foxy/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

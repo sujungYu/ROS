@@ -1,0 +1,22 @@
+[8.937s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_turtlebot': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_turtlebot\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_turtlebot build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_turtlebot\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_turtlebot --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_turtlebot\install.log --single-version-externally-managed
+[10.250s] running egg_info
+[10.250s] writing ..\..\build\webots_ros2_turtlebot\webots_ros2_turtlebot.egg-info\PKG-INFO
+[10.250s] writing dependency_links to ..\..\build\webots_ros2_turtlebot\webots_ros2_turtlebot.egg-info\dependency_links.txt
+[10.250s] writing entry points to ..\..\build\webots_ros2_turtlebot\webots_ros2_turtlebot.egg-info\entry_points.txt
+[10.250s] writing requirements to ..\..\build\webots_ros2_turtlebot\webots_ros2_turtlebot.egg-info\requires.txt
+[10.265s] writing top-level names to ..\..\build\webots_ros2_turtlebot\webots_ros2_turtlebot.egg-info\top_level.txt
+[10.437s] reading manifest file '..\..\build\webots_ros2_turtlebot\webots_ros2_turtlebot.egg-info\SOURCES.txt'
+[10.469s] writing manifest file '..\..\build\webots_ros2_turtlebot\webots_ros2_turtlebot.egg-info\SOURCES.txt'
+[10.469s] running build
+[10.469s] running build_py
+[11.125s] running install
+[11.125s] running install_lib
+[11.125s] running install_data
+[11.125s] running install_egg_info
+[11.125s] removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_turtlebot\Lib\site-packages\webots_ros2_turtlebot-1.0.3-py3.8.egg-info' (and everything under it)
+[11.125s] Copying ..\..\build\webots_ros2_turtlebot\webots_ros2_turtlebot.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_turtlebot\Lib\site-packages\webots_ros2_turtlebot-1.0.3-py3.8.egg-info
+[11.140s] running install_scripts
+[11.187s] Installing turtlebot_driver-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_turtlebot\lib\webots_ros2_turtlebot
+[11.187s] Installing turtlebot_driver.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_turtlebot\lib\webots_ros2_turtlebot
+[11.187s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_turtlebot\install.log'
+[11.265s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_turtlebot' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_turtlebot\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_turtlebot build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_turtlebot\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_turtlebot --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_turtlebot\install.log --single-version-externally-managed

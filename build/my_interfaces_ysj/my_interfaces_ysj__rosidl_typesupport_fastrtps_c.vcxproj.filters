@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_fastrtps_c\my_interfaces_ysj\srv\detail\add_three_ints__type_support_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_fastrtps_c\my_interfaces_ysj\msg\detail\temp__type_support_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_fastrtps_c\my_interfaces_ysj\action\detail\fibonacci__type_support_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_fastrtps_c\my_interfaces_ysj\srv\detail\add_three_ints__rosidl_typesupport_fastrtps_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_fastrtps_c\my_interfaces_ysj\msg\detail\temp__rosidl_typesupport_fastrtps_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_fastrtps_c\my_interfaces_ysj\action\detail\fibonacci__rosidl_typesupport_fastrtps_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\CMakeFiles\dc120639c7f6d19d01495c5037041e0b\add_three_ints__rosidl_typesupport_fastrtps_c.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\src\my_interfaces_ysj\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7868610E-327B-3836-BA55-8546E60EEB34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7437F779-45AB-3C1C-84B1-7D8B25FF1056}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5911617E-01BC-303B-9586-4B5286C4558A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\BUILD\MY_INTERFACES_YSJ\CMAKEFILES\12DA397E96D10DFC9998D098CED886D5\ADD_THREE_INTS__TYPE_SUPPORT.CPP.RULE
+setlocal
+C:\Python38\python.exe C:/dev/ros2_foxy/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp --generator-arguments-file C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/rosidl_typesupport_cpp__arguments.json --typesupports rosidl_typesupport_connext_cpp rosidl_typesupport_fastrtps_cpp rosidl_typesupport_introspection_cpp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\82103\DOCUMENTS\ROS2_WS\SRC\MY_INTERFACES_YSJ\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/82103/Documents/ros2_ws/src/my_interfaces_ysj -BC:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj --check-stamp-file C:/Users/82103/Documents/ros2_ws/build/my_interfaces_ysj/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,26 @@
+[2.500s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_core': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_core build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\install.log --single-version-externally-managed
+[3.532s] running egg_info
+[3.532s] writing ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\PKG-INFO
+[3.532s] writing dependency_links to ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\dependency_links.txt
+[3.532s] writing entry points to ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\entry_points.txt
+[3.532s] writing requirements to ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\requires.txt
+[3.532s] writing top-level names to ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\top_level.txt
+[3.610s] reading manifest file '..\..\build\webots_ros2_core\webots_ros2_core.egg-info\SOURCES.txt'
+[3.610s] writing manifest file '..\..\build\webots_ros2_core\webots_ros2_core.egg-info\SOURCES.txt'
+[3.610s] running build
+[3.610s] running build_py
+[3.641s] running install
+[3.641s] running install_lib
+[3.672s] running install_data
+[3.672s] running install_egg_info
+[3.672s] removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core-1.0.3-py3.8.egg-info' (and everything under it)
+[3.688s] Copying ..\..\build\webots_ros2_core\webots_ros2_core.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core-1.0.3-py3.8.egg-info
+[3.719s] running install_scripts
+[3.797s] Installing webots_differential_drive_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[3.813s] Installing webots_differential_drive_node.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[3.813s] Installing webots_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[3.813s] Installing webots_node.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[3.813s] Installing webots_robotic_arm_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[3.813s] Installing webots_robotic_arm_node.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[3.829s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\install.log'
+[3.891s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_core' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_core build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\install.log --single-version-externally-managed

@@ -1,0 +1,8 @@
+{
+  "package_name": "my_interfaces_ysj",
+  "non_idl_tuples": [
+    "C:/Users/82103/Documents/ros2_ws/src/my_interfaces_ysj:srv/AddThreeInts.srv",
+    "C:/Users/82103/Documents/ros2_ws/src/my_interfaces_ysj:msg/Temp.msg",
+    "C:/Users/82103/Documents/ros2_ws/src/my_interfaces_ysj:action/Fibonacci.action"
+  ]
+}

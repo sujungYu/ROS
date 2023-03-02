@@ -1,0 +1,7 @@
+{
+  "package_name": "webots_ros2_msgs",
+  "non_idl_tuples": [
+    "C:/Users/82103/Documents/ros2_ws/webots_ros2/webots_ros2_msgs:srv/SetDifferentialWheelSpeed.srv",
+    "C:/Users/82103/Documents/ros2_ws/webots_ros2/webots_ros2_msgs:srv/SetInt.srv"
+  ]
+}

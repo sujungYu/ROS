@@ -1,0 +1,9 @@
+[console_scripts]
+fibonacci_action_server = test_package_ysj.fibonacci_action_server:main
+service_client_node = test_package_ysj.service_client_node:main
+service_server_node = test_package_ysj.service_server_node:main
+simple_publisher_node = test_package_ysj.simple_publisher_node:main
+simple_subscriber_node = test_package_ysj.simple_subscriber_node:main
+temperature_alert = test_package_ysj.temperature_alert:main
+temperature_sensor = test_package_ysj.temperature_sensor:main
+

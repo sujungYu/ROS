@@ -1,0 +1,24 @@
+[8.750s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_examples': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_examples build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\install.log --single-version-externally-managed
+[9.797s] running egg_info
+[9.797s] writing ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\PKG-INFO
+[9.797s] writing dependency_links to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\dependency_links.txt
+[9.797s] writing entry points to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\entry_points.txt
+[9.813s] writing requirements to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\requires.txt
+[9.813s] writing top-level names to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\top_level.txt
+[9.907s] reading manifest file '..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\SOURCES.txt'
+[9.922s] writing manifest file '..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\SOURCES.txt'
+[9.938s] running build
+[9.938s] running build_py
+[9.938s] running install
+[9.938s] running install_lib
+[9.953s] running install_data
+[9.985s] running install_egg_info
+[10.125s] removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples-1.0.3-py3.8.egg-info' (and everything under it)
+[10.125s] Copying ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples-1.0.3-py3.8.egg-info
+[10.375s] running install_scripts
+[10.375s] Installing example_controller-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+[10.391s] Installing example_controller.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+[10.391s] Installing khepera_driver-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+[10.391s] Installing khepera_driver.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+[10.391s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\install.log'
+[10.485s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_examples' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_examples build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\install.log --single-version-externally-managed

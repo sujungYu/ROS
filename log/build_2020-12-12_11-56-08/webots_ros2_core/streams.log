@@ -1,0 +1,111 @@
+[2.953s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_core': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_core build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\install.log --single-version-externally-managed
+[4.016s] running egg_info
+[4.016s] creating ..\..\build\webots_ros2_core\webots_ros2_core.egg-info
+[4.031s] writing ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\PKG-INFO
+[4.031s] writing dependency_links to ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\dependency_links.txt
+[4.031s] writing entry points to ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\entry_points.txt
+[4.031s] writing requirements to ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\requires.txt
+[4.031s] writing top-level names to ..\..\build\webots_ros2_core\webots_ros2_core.egg-info\top_level.txt
+[4.031s] writing manifest file '..\..\build\webots_ros2_core\webots_ros2_core.egg-info\SOURCES.txt'
+[4.125s] reading manifest file '..\..\build\webots_ros2_core\webots_ros2_core.egg-info\SOURCES.txt'
+[4.141s] writing manifest file '..\..\build\webots_ros2_core\webots_ros2_core.egg-info\SOURCES.txt'
+[4.141s] running build
+[4.141s] running build_py
+[4.141s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build
+[4.141s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib
+[4.141s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.141s] copying webots_ros2_core\joint_state_publisher.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.156s] copying webots_ros2_core\math_utils.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.187s] copying webots_ros2_core\tf_publisher.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.187s] copying webots_ros2_core\trajectory_follower.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.203s] copying webots_ros2_core\utils.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.219s] copying webots_ros2_core\webots_differential_drive_node.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.234s] copying webots_ros2_core\webots_launcher.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.250s] copying webots_ros2_core\webots_node.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.266s] copying webots_ros2_core\webots_robotic_arm_node.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.281s] copying webots_ros2_core\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core
+[4.297s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.297s] copying webots_ros2_core\devices\camera_device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.312s] copying webots_ros2_core\devices\device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.328s] copying webots_ros2_core\devices\device_manager.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.344s] copying webots_ros2_core\devices\distance_sensor_device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.344s] copying webots_ros2_core\devices\imu_device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.359s] copying webots_ros2_core\devices\led_device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.359s] copying webots_ros2_core\devices\lidar_device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.375s] copying webots_ros2_core\devices\light_sensor_device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.375s] copying webots_ros2_core\devices\robot_device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.391s] copying webots_ros2_core\devices\sensor_device.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.406s] copying webots_ros2_core\devices\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices
+[4.422s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\math
+[4.422s] copying webots_ros2_core\math\quaternions.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\math
+[4.437s] copying webots_ros2_core\math\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\math
+[4.437s] running install
+[4.437s] running install_lib
+[4.453s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.453s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.453s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\camera_device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.453s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.469s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\device_manager.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.469s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\distance_sensor_device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.469s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\imu_device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.484s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\led_device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.484s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\lidar_device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.484s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\light_sensor_device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.500s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\robot_device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.500s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\sensor_device.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.500s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\devices\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices
+[4.516s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\joint_state_publisher.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.516s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\math
+[4.516s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\math\quaternions.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\math
+[4.531s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\math\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\math
+[4.531s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\math_utils.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.547s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\tf_publisher.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.547s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\trajectory_follower.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.562s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\utils.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.578s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\webots_differential_drive_node.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.594s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\webots_launcher.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.594s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\webots_node.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.594s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\webots_robotic_arm_node.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.609s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build\lib\webots_ros2_core\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core
+[4.609s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\camera_device.py to camera_device.cpython-38.pyc
+[4.625s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\device.py to device.cpython-38.pyc
+[4.625s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\device_manager.py to device_manager.cpython-38.pyc
+[4.641s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\distance_sensor_device.py to distance_sensor_device.cpython-38.pyc
+[4.641s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\imu_device.py to imu_device.cpython-38.pyc
+[4.656s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\led_device.py to led_device.cpython-38.pyc
+[4.656s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\lidar_device.py to lidar_device.cpython-38.pyc
+[4.672s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\light_sensor_device.py to light_sensor_device.cpython-38.pyc
+[4.672s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\robot_device.py to robot_device.cpython-38.pyc
+[4.687s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\sensor_device.py to sensor_device.cpython-38.pyc
+[4.687s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\devices\__init__.py to __init__.cpython-38.pyc
+[4.687s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\joint_state_publisher.py to joint_state_publisher.cpython-38.pyc
+[4.703s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\math\quaternions.py to quaternions.cpython-38.pyc
+[4.719s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\math\__init__.py to __init__.cpython-38.pyc
+[4.734s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\math_utils.py to math_utils.cpython-38.pyc
+[4.734s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\tf_publisher.py to tf_publisher.cpython-38.pyc
+[4.750s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\trajectory_follower.py to trajectory_follower.cpython-38.pyc
+[4.766s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\utils.py to utils.cpython-38.pyc
+[4.781s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\webots_differential_drive_node.py to webots_differential_drive_node.cpython-38.pyc
+[4.797s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\webots_launcher.py to webots_launcher.cpython-38.pyc
+[4.797s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\webots_node.py to webots_node.cpython-38.pyc
+[4.812s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\webots_robotic_arm_node.py to webots_robotic_arm_node.cpython-38.pyc
+[4.812s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core\__init__.py to __init__.cpython-38.pyc
+[4.828s] running install_data
+[4.828s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\share\ament_index
+[4.828s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\share\ament_index\resource_index
+[4.828s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\share\ament_index\resource_index\packages
+[4.828s] copying resource\webots_ros2_core -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\share\ament_index\resource_index\packages
+[4.828s] copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\share\webots_ros2_core
+[4.844s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\share\webots_ros2_core\launch
+[4.844s] copying launch\robot_launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\share\webots_ros2_core\launch
+[4.844s] running install_egg_info
+[4.859s] Copying ..\..\build\webots_ros2_core\webots_ros2_core.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages\webots_ros2_core-1.0.3-py3.8.egg-info
+[4.906s] running install_scripts
+[4.984s] Installing webots_differential_drive_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[5.000s] Installing webots_differential_drive_node.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[5.000s] Installing webots_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[5.000s] Installing webots_node.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[5.016s] Installing webots_robotic_arm_node-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[5.016s] Installing webots_robotic_arm_node.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\lib\webots_ros2_core
+[5.031s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\install.log'
+[5.094s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_core' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_core build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_core\install.log --single-version-externally-managed

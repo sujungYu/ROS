@@ -1,0 +1,29 @@
+[4.734s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_epuck': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_epuck build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\install.log --single-version-externally-managed
+[5.672s] running egg_info
+[5.672s] writing ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\PKG-INFO
+[5.672s] writing dependency_links to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\dependency_links.txt
+[5.687s] writing entry points to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\entry_points.txt
+[5.687s] writing requirements to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\requires.txt
+[5.687s] writing top-level names to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\top_level.txt
+[5.766s] reading manifest file '..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\SOURCES.txt'
+[5.797s] writing manifest file '..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\SOURCES.txt'
+[5.797s] running build
+[5.797s] running build_py
+[5.797s] copying webots_ros2_epuck\ysj_controller.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck
+[5.797s] running install
+[5.797s] running install_lib
+[5.812s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck\ysj_controller.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck
+[5.828s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck\ysj_controller.py to ysj_controller.cpython-38.pyc
+[5.828s] running install_data
+[5.969s] running install_egg_info
+[5.969s] removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck-1.0.3-py3.8.egg-info' (and everything under it)
+[5.969s] Copying ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck-1.0.3-py3.8.egg-info
+[5.969s] running install_scripts
+[6.094s] Installing drive_calibrator-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[6.094s] Installing drive_calibrator.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[6.094s] Installing driver-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[6.094s] Installing driver.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[6.094s] Installing simple_mapper-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[6.094s] Installing simple_mapper.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[6.094s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\install.log'
+[6.234s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_epuck' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_epuck build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\install.log --single-version-externally-managed

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\CMakeFiles\893d3461f170e1dd67ef331d557b9d40\add_three_ints.hpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\CMakeFiles\ab4d4be3850f4c33bbba1de53cc83a45\my_interfaces_ysj__cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\src\my_interfaces_ysj\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\CMakeFiles\my_interfaces_ysj__cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7868610E-327B-3836-BA55-8546E60EEB34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

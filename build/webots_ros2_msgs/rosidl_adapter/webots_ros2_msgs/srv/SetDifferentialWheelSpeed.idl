@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from webots_ros2_msgs/srv\SetDifferentialWheelSpeed.srv
+// generated code does not contain a copyright notice
+
+
+module webots_ros2_msgs {
+  module srv {
+    struct SetDifferentialWheelSpeed_Request {
+      double left_speed;
+
+      double right_speed;
+    };
+    struct SetDifferentialWheelSpeed_Response {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

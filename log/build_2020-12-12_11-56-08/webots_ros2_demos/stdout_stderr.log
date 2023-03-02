@@ -1,0 +1,48 @@
+running egg_info
+creating ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info
+writing ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\PKG-INFO
+writing dependency_links to ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\dependency_links.txt
+writing entry points to ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\entry_points.txt
+writing requirements to ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\requires.txt
+writing top-level names to ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\top_level.txt
+writing manifest file '..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\SOURCES.txt'
+reading manifest file '..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\SOURCES.txt'
+writing manifest file '..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info\SOURCES.txt'
+running build
+running build_py
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos
+copying webots_ros2_demos\armed_robots_abb.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos
+copying webots_ros2_demos\armed_robots_ur.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos
+copying webots_ros2_demos\follow_joint_trajectory_client.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos
+copying webots_ros2_demos\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos
+running install
+running install_lib
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos\armed_robots_abb.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos\armed_robots_ur.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos\follow_joint_trajectory_client.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\build\lib\webots_ros2_demos\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos\armed_robots_abb.py to armed_robots_abb.cpython-38.pyc
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos\armed_robots_ur.py to armed_robots_ur.cpython-38.pyc
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos\follow_joint_trajectory_client.py to follow_joint_trajectory_client.cpython-38.pyc
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos\__init__.py to __init__.cpython-38.pyc
+running install_data
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\ament_index
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\ament_index\resource_index
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\ament_index\resource_index\packages
+copying resource\webots_ros2_demos -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\ament_index\resource_index\packages
+copying launch\armed_robots.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\webots_ros2_demos
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\webots_ros2_demos\worlds
+copying worlds\armed_robots.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\webots_ros2_demos\worlds
+copying worlds\.armed_robots.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\webots_ros2_demos\worlds
+copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\share\webots_ros2_demos
+running install_egg_info
+Copying ..\..\build\webots_ros2_demos\webots_ros2_demos.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\Lib\site-packages\webots_ros2_demos-1.0.3-py3.8.egg-info
+running install_scripts
+Installing armed_robots_abb-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\lib\webots_ros2_demos
+Installing armed_robots_abb.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\lib\webots_ros2_demos
+Installing armed_robots_ur-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\lib\webots_ros2_demos
+Installing armed_robots_ur.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_demos\lib\webots_ros2_demos
+writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_demos\install.log'

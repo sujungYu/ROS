@@ -1,0 +1,96 @@
+[9.219s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_epuck': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_epuck build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\install.log --single-version-externally-managed
+[10.312s] running egg_info
+[10.328s] creating ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info
+[10.328s] writing ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\PKG-INFO
+[10.328s] writing dependency_links to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\dependency_links.txt
+[10.328s] writing entry points to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\entry_points.txt
+[10.328s] writing requirements to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\requires.txt
+[10.328s] writing top-level names to ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\top_level.txt
+[10.328s] writing manifest file '..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\SOURCES.txt'
+[10.469s] reading manifest file '..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\SOURCES.txt'
+[10.484s] writing manifest file '..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info\SOURCES.txt'
+[10.484s] running build
+[10.484s] running build_py
+[10.484s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build
+[10.484s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib
+[10.484s] creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck
+[10.484s] copying webots_ros2_epuck\driver.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck
+[10.500s] copying webots_ros2_epuck\drive_calibrator.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck
+[10.516s] copying webots_ros2_epuck\simple_mapper.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck
+[10.531s] copying webots_ros2_epuck\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck
+[10.547s] running install
+[10.547s] running install_lib
+[10.547s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck
+[10.547s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck\driver.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck
+[10.562s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck\drive_calibrator.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck
+[10.562s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck\simple_mapper.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck
+[10.578s] copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build\lib\webots_ros2_epuck\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck
+[10.578s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck\driver.py to driver.cpython-38.pyc
+[10.594s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck\drive_calibrator.py to drive_calibrator.cpython-38.pyc
+[10.594s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck\simple_mapper.py to simple_mapper.cpython-38.pyc
+[10.609s] byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck\__init__.py to __init__.cpython-38.pyc
+[10.625s] running install_data
+[10.625s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\ament_index
+[10.625s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\ament_index\resource_index
+[10.625s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\ament_index\resource_index\packages
+[10.625s] copying resource\webots_ros2_epuck -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\ament_index\resource_index\packages
+[10.625s] copying launch\robot_launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck
+[10.641s] copying launch\robot_tools_launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck
+[10.672s] copying launch\robot_with_tools_launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck
+[10.672s] copying launch\rats_life_launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck
+[10.672s] copying launch\rats_life_waypoints_launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck
+[10.812s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\worlds
+[10.812s] copying worlds\epuck_world.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\worlds
+[10.812s] copying worlds\.epuck_world.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\worlds
+[10.812s] copying worlds\rats_life_benchmark.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\worlds
+[10.812s] copying worlds\.rats_life_benchmark.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\worlds
+[10.828s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos
+[10.828s] copying protos\E-puck_enu.proto -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos
+[10.828s] copying protos\E-puckDistanceSensor_enu.proto -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos
+[10.828s] copying protos\LegoTallInterval.proto -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos
+[10.828s] copying protos\LegoTallWall.proto -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos
+[10.937s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\icons
+[10.937s] copying protos\icons\E-puck.png -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\icons
+[10.937s] copying protos\icons\E-puckDistanceSensor.png -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\icons
+[10.937s] copying protos\icons\E-puckGroundSensors.png -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\icons
+[10.937s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[10.937s] copying protos\textures\e-puck1_plate_base_color.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[10.937s] copying protos\textures\e-puck1_plate_metalness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[10.937s] copying protos\textures\e-puck1_plate_normal.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[10.937s] copying protos\textures\e-puck1_plate_occlusion.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.000s] copying protos\textures\e-puck1_plate_roughness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.000s] copying protos\textures\e-puck1_turret_base_color.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.000s] copying protos\textures\e-puck1_turret_metalness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.000s] copying protos\textures\e-puck1_turret_normal.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.000s] copying protos\textures\e-puck1_turret_occlusion.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.000s] copying protos\textures\e-puck1_turret_roughness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.000s] copying protos\textures\e-puck2_plate.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.000s] copying protos\textures\e-puck2_plate_metalness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.016s] copying protos\textures\e-puck2_plate_normal.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.031s] copying protos\textures\e-puck2_plate_occlusion.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.047s] copying protos\textures\e-puck2_plate_roughness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.062s] copying protos\textures\gctronic_logo.png -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.078s] copying protos\textures\raspberry_pi_bottom.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.297s] copying protos\textures\raspberry_pi_top_base_color.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.312s] copying protos\textures\raspberry_pi_top_normal.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.312s] copying protos\textures\raspberry_pi_top_occlusion.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\protos\textures
+[11.312s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\resource
+[11.312s] copying resource\all.rviz -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\resource
+[11.312s] copying resource\nav2_params.yaml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\resource
+[11.375s] copying resource\map_rats_life.pgm -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\resource
+[11.375s] copying resource\map_rats_life.yaml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\resource
+[11.375s] copying resource\nav2_rats_life_waypoints.yaml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\resource
+[11.375s] copying resource\epuck_world_map.pgm -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\resource
+[11.375s] copying resource\epuck_world_map.yaml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck\resource
+[11.375s] copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\share\webots_ros2_epuck
+[11.375s] running install_egg_info
+[11.375s] Copying ..\..\build\webots_ros2_epuck\webots_ros2_epuck.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages\webots_ros2_epuck-1.0.3-py3.8.egg-info
+[11.391s] running install_scripts
+[11.406s] Installing drive_calibrator-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[11.406s] Installing drive_calibrator.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[11.406s] Installing driver-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[11.406s] Installing driver.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[11.422s] Installing simple_mapper-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[11.422s] Installing simple_mapper.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\lib\webots_ros2_epuck
+[11.437s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\install.log'
+[11.500s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_epuck' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_epuck build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_epuck --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_epuck\install.log --single-version-externally-managed

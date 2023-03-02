@@ -1,0 +1,15 @@
+source;share\my_interfaces_ysj\hook\cmake_prefix_path.ps1
+source;share\my_interfaces_ysj\hook\cmake_prefix_path.bat
+source;share\my_interfaces_ysj\hook\cmake_prefix_path.dsv
+source;share\my_interfaces_ysj\hook\path_dll.ps1
+source;share\my_interfaces_ysj\hook\path_dll.bat
+source;share\my_interfaces_ysj\hook\path_dll.dsv
+source;share\my_interfaces_ysj\hook\path.ps1
+source;share\my_interfaces_ysj\hook\path.bat
+source;share\my_interfaces_ysj\hook\path.dsv
+source;share\my_interfaces_ysj\hook\pythonpath.ps1
+source;share\my_interfaces_ysj\hook\pythonpath.bat
+source;share\my_interfaces_ysj\hook\pythonpath.dsv
+source;share/my_interfaces_ysj/local_setup.bat
+source;share/my_interfaces_ysj/local_setup.dsv
+source;share/my_interfaces_ysj/local_setup.ps1

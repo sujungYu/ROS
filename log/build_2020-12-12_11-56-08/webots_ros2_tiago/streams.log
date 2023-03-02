@@ -1,0 +1,33 @@
+[9.031s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_tiago': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_tiago build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tiago\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tiago\install.log --single-version-externally-managed
+[10.172s] running egg_info
+[10.172s] creating ..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info
+[10.172s] writing ..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info\PKG-INFO
+[10.172s] writing dependency_links to ..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info\dependency_links.txt
+[10.172s] writing entry points to ..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info\entry_points.txt
+[10.187s] writing requirements to ..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info\requires.txt
+[10.187s] writing top-level names to ..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info\top_level.txt
+[10.187s] writing manifest file '..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info\SOURCES.txt'
+[10.203s] reading manifest file '..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info\SOURCES.txt'
+[10.203s] writing manifest file '..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info\SOURCES.txt'
+[10.203s] running build
+[10.203s] running install
+[10.218s] running install_data
+[10.218s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\ament_index
+[10.218s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\ament_index\resource_index
+[10.218s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\ament_index\resource_index\packages
+[10.218s] copying resource\webots_ros2_tiago -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\ament_index\resource_index\packages
+[10.218s] copying launch\tiago.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago
+[10.234s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago\worlds
+[10.234s] copying worlds\ros_tiago.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago\worlds
+[10.250s] copying worlds\.ros_tiago.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago\worlds
+[10.265s] copying worlds\tiago++_example.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago\worlds
+[10.281s] copying worlds\.tiago++_example.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago\worlds
+[10.297s] creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago\resource
+[10.297s] copying resource\odometry.rviz -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago\resource
+[10.312s] copying resource\tiago.yaml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago\resource
+[10.328s] copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\share\webots_ros2_tiago
+[10.328s] running install_egg_info
+[10.343s] Copying ..\..\build\webots_ros2_tiago\webots_ros2_tiago.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\Lib\site-packages\webots_ros2_tiago-1.0.3-py3.8.egg-info
+[10.406s] running install_scripts
+[10.609s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tiago\install.log'
+[10.625s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_tiago' returned '0': AMENT_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs;%CMAKE_PREFIX_PATH% PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_core\Lib\site-packages;c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\Lib\site-packages;%PYTHONPATH% Path=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_msgs\bin;%Path% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_tiago build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tiago\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_tiago --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_tiago\install.log --single-version-externally-managed

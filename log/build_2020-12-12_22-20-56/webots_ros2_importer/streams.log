@@ -1,0 +1,24 @@
+[7.578s] Invoking command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_importer': PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_importer build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_importer\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_importer\install.log --single-version-externally-managed
+[9.109s] running egg_info
+[9.109s] writing ..\..\build\webots_ros2_importer\webots_ros2_importer.egg-info\PKG-INFO
+[9.125s] writing dependency_links to ..\..\build\webots_ros2_importer\webots_ros2_importer.egg-info\dependency_links.txt
+[9.125s] writing entry points to ..\..\build\webots_ros2_importer\webots_ros2_importer.egg-info\entry_points.txt
+[9.125s] writing requirements to ..\..\build\webots_ros2_importer\webots_ros2_importer.egg-info\requires.txt
+[9.125s] writing top-level names to ..\..\build\webots_ros2_importer\webots_ros2_importer.egg-info\top_level.txt
+[9.203s] reading manifest file '..\..\build\webots_ros2_importer\webots_ros2_importer.egg-info\SOURCES.txt'
+[9.219s] writing manifest file '..\..\build\webots_ros2_importer\webots_ros2_importer.egg-info\SOURCES.txt'
+[9.234s] running build
+[9.234s] running build_py
+[9.234s] running install
+[9.234s] running install_lib
+[9.266s] running install_data
+[9.281s] running install_egg_info
+[9.297s] removing 'c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer\Lib\site-packages\webots_ros2_importer-1.0.3-py3.8.egg-info' (and everything under it)
+[9.313s] Copying ..\..\build\webots_ros2_importer\webots_ros2_importer.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer\Lib\site-packages\webots_ros2_importer-1.0.3-py3.8.egg-info
+[9.359s] running install_scripts
+[9.469s] Installing urdf2proto-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer\lib\webots_ros2_importer
+[9.484s] Installing urdf2proto.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer\lib\webots_ros2_importer
+[9.484s] Installing xacro2proto-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer\lib\webots_ros2_importer
+[9.484s] Installing xacro2proto.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer\lib\webots_ros2_importer
+[9.484s] writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_importer\install.log'
+[9.563s] Invoked command in 'c:\Users\82103\Documents\ros2_ws\webots_ros2\webots_ros2_importer' returned '0': PYTHONPATH=c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer\Lib\site-packages;%PYTHONPATH% c:\python38\python.exe setup.py egg_info --egg-base ..\..\build\webots_ros2_importer build --build-base c:\Users\82103\Documents\ros2_ws\build\webots_ros2_importer\build install --prefix c:\Users\82103\Documents\ros2_ws\install\webots_ros2_importer --record c:\Users\82103\Documents\ros2_ws\build\webots_ros2_importer\install.log --single-version-externally-managed

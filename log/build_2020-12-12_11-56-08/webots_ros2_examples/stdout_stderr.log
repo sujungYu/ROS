@@ -1,0 +1,63 @@
+running egg_info
+creating ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info
+writing ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\PKG-INFO
+writing dependency_links to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\dependency_links.txt
+writing entry points to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\entry_points.txt
+writing requirements to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\requires.txt
+writing top-level names to ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\top_level.txt
+writing manifest file '..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\SOURCES.txt'
+reading manifest file '..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\SOURCES.txt'
+writing manifest file '..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info\SOURCES.txt'
+running build
+running build_py
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib
+creating c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples
+copying webots_ros2_examples\example_controller.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples
+copying webots_ros2_examples\khepera_driver.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples
+copying webots_ros2_examples\__init__.py -> c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples
+running install
+running install_lib
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples\example_controller.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples\khepera_driver.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples
+copying c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\build\lib\webots_ros2_examples\__init__.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples\example_controller.py to example_controller.cpython-38.pyc
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples\khepera_driver.py to khepera_driver.cpython-38.pyc
+byte-compiling c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples\__init__.py to __init__.cpython-38.pyc
+running install_data
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\ament_index
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\ament_index\resource_index
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\ament_index\resource_index\packages
+copying resource\webots_ros2_examples -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\ament_index\resource_index\packages
+copying launch\example.launch.py -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\resource
+copying resource\khepera4.yaml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\resource
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos
+copying protos\Khepera4_enu.proto -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_bottom_base_color.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_bottom_metalness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_bottom_normal.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_bottom_occlusion.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_bottom_roughness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_left_sticker.png -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_right_sticker.png -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_top_base_color.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_top_normal.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_top_occlusion.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+copying protos\textures\khepera4_top_roughness.jpg -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\protos\textures
+creating c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+copying worlds\ros_example.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+copying worlds\.ros_example.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+copying worlds\khepera4_example.wbt -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+copying worlds\.khepera4_example.wbproj -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples\worlds
+copying package.xml -> c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\share\webots_ros2_examples
+running install_egg_info
+Copying ..\..\build\webots_ros2_examples\webots_ros2_examples.egg-info to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\Lib\site-packages\webots_ros2_examples-1.0.3-py3.8.egg-info
+running install_scripts
+Installing example_controller-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+Installing example_controller.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+Installing khepera_driver-script.py script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+Installing khepera_driver.exe script to c:\Users\82103\Documents\ros2_ws\install\webots_ros2_examples\lib\webots_ros2_examples
+writing list of installed files to 'c:\Users\82103\Documents\ros2_ws\build\webots_ros2_examples\install.log'

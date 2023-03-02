@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_c\my_interfaces_ysj\srv\add_three_ints__type_support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_c\my_interfaces_ysj\msg\temp__type_support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\rosidl_typesupport_c\my_interfaces_ysj\action\fibonacci__type_support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\build\my_interfaces_ysj\CMakeFiles\22f1fdd5b81a99b2482b8c11e78c75fe\add_three_ints__type_support.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\82103\Documents\ros2_ws\src\my_interfaces_ysj\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7868610E-327B-3836-BA55-8546E60EEB34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5911617E-01BC-303B-9586-4B5286C4558A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
